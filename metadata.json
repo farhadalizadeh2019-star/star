@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of Virtual Try-On AI",
+  "description": "An application that uses AI to allow users to virtually try on clothes. Users upload a photo of themselves and a photo of the garment, and the AI combines them to generate a new image.",
+  "requestFramePermissions": []
+}
